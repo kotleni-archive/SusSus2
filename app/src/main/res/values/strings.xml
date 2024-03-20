@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Maria Casino</string>
+    <string name="connection_lost">Connection lost\nretry connecting..</string>
+    <string name="load">Loading</string>
+    <string name="rules">Spin the slots and win! If you go negative, you lose. To win, score 10,000 points.</string>
+</resources>
